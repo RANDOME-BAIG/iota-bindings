@@ -19,7 +19,7 @@ iotars = ["iota-bindings"]
 [dependencies]
 cty = { git = "https://github.com/japaric/cty.git" }
 iota-bindings = { git = "https://github.com/RANDOME-BAIG/iota.legacy.rs", optional = true }
-iota-mam-bindings = { git = "https://github.com/iotaledger/MAM.git", optional = true }
+iota-mam-bindings = { git = "https://github.com/RANDOME-BAIG/MAM.git", optional = true }
 iota-bindings-shared = { path = "../shared" }
 
 
